@@ -56,7 +56,7 @@ class Printer {
         for (def j = 1; j <= 7; j++) {
             System.out.print(INDENT + "\t\t\b" + theCardOnTheBoard.toString(-j) + "    " + theCardOnTheBoard.toString(j))
             if (j == 2) {
-                System.out.print("  table color")
+                System.out.print("  Cor Mesa")
             } else if (j > 2 && j < 6) {
                 System.out.print("    " + Color.getColorCodeString(colorOnTheBoard) + "      " +
                         Color.getColorCodeString(Color.RESET))
