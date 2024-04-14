@@ -19,6 +19,5 @@ Repositório para o projeto de Paradigmas de Programação
 Materiais de apoio: 
 <br>[Uno Card Game in Java](https://www.youtube.com/watch?v=BFyGPSqB4vE&list=PLu_zq6omCvuQ_ZoKnE8-CE2nF113p9pxd&index=3&ab_channel=CodeClique)
 <br>[Documentação do Groovy](https://groovy-lang.org/documentation.html)
-<br>[Slide Apresentação](https://www.canva.com/design/DAGB8SGEJhU/MEpCiVwEz00cXTgEWk6yog/edit?utm_content=DAGB8SGEJhU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ![image](https://github.com/JVAS42/uno-game/assets/61116930/73015f58-9ed6-4e93-bf49-7518e8c2a04f)
